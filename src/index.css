@@ -36,3 +36,33 @@ code {
 .App {
   text-align: center;
 }
+
+.alert {
+  color: rgb(233, 72, 72);
+  font-weight: 400;
+  text-transform: capitalize;
+
+}
+
+/*tablet landscape and desktop layout (960px or more) */
+@media only screen and (min-width: 960px) {
+ 
+}
+
+/*table portrait layout (768px to 959px) */
+@media only screen and (max-width: 959px) {
+  
+}
+
+/*mobile landscape layout (480px to 767px) */
+@media only screen and (max-width: 767px) {
+  /*...mobile landscape styles */
+}
+
+/*mobile portrait layout (479px or less) */
+@media only screen and (max-width: 479px) {
+  /*...mobile portrait styles */
+  html {
+    font-size: 75%;
+  }
+}
