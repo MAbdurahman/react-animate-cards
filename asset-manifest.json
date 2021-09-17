@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-animate-cards/static/css/main.ce71c629.chunk.css",
+    "main.js": "/react-animate-cards/static/js/main.1ff78c3b.chunk.js",
+    "main.js.map": "/react-animate-cards/static/js/main.1ff78c3b.chunk.js.map",
+    "runtime-main.js": "/react-animate-cards/static/js/runtime-main.7f7652a7.js",
+    "runtime-main.js.map": "/react-animate-cards/static/js/runtime-main.7f7652a7.js.map",
+    "static/css/2.8e1873ca.chunk.css": "/react-animate-cards/static/css/2.8e1873ca.chunk.css",
+    "static/js/2.2481f5ca.chunk.js": "/react-animate-cards/static/js/2.2481f5ca.chunk.js",
+    "static/js/2.2481f5ca.chunk.js.map": "/react-animate-cards/static/js/2.2481f5ca.chunk.js.map",
+    "index.html": "/react-animate-cards/index.html",
+    "precache-manifest.0bdc9ec202475d2956c33f489da2723d.js": "/react-animate-cards/precache-manifest.0bdc9ec202475d2956c33f489da2723d.js",
+    "service-worker.js": "/react-animate-cards/service-worker.js",
+    "static/css/2.8e1873ca.chunk.css.map": "/react-animate-cards/static/css/2.8e1873ca.chunk.css.map",
+    "static/css/main.ce71c629.chunk.css.map": "/react-animate-cards/static/css/main.ce71c629.chunk.css.map",
+    "static/js/2.2481f5ca.chunk.js.LICENSE.txt": "/react-animate-cards/static/js/2.2481f5ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f7652a7.js",
+    "static/css/2.8e1873ca.chunk.css",
+    "static/js/2.2481f5ca.chunk.js",
+    "static/css/main.ce71c629.chunk.css",
+    "static/js/main.1ff78c3b.chunk.js"
+  ]
+}
